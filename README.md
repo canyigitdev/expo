@@ -8,7 +8,7 @@ This repository contains an empty Expo project that is set up with the following
    - Integrated the Expo routing library for navigation.
 
 2. **Styling with NativeWind:**
-   - Utilized the NativeWind library for styling components in a Native-like manner.
+   - Added NativeWind for styling components using NativeWind's approach instead of the standard style object.
 
 3. **Context Structure Implementation:**
    - Established a Context structure to manage and share state across components.
