@@ -20,4 +20,5 @@ Follow these steps to set up your project:
 1. **Clone the Repository:**
    ```bash
    git clone https://github.com/canyigitdev/expo.git
-   cd your-project
+   cd expo
+   npm install
